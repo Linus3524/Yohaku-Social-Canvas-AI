@@ -1,0 +1,6 @@
+{
+  "name": "Social Canvas AI",
+  "description": "An interactive workspace that automates writing, structural pagination, card design, and social media layout preview for carousel platforms like Instagram, Facebook, and Threads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
